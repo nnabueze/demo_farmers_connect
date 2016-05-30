@@ -1,0 +1,96 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 29, 2016, 8:43:06 PM
+    Author     : SimplePay1
+*/
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+    //background: url(images/index.jpg) repeat;
+    //background-color:#cccccc;
+    -webkit-font-smoothing: antialiased;
+     background: url(../image/DSC_1707.JPG) no-repeat center fixed;
+     background-size: cover;
+     //color: #919398
+    
+}
+
+.container_page {
+    padding: 25px;
+    position: fixed;
+}
+
+.form-login {
+    background-color: #EDEDED;
+    //background:rgba(105,105,105,0.5);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    box-shadow:0 1px 0 #cfcfcf;
+}
+
+h4 { 
+    border:0 solid #fff; 
+    border-bottom-width:1px;
+    padding-bottom:10px;
+    text-align: center;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.wrapper {
+    text-align: center;
+}
+.margin-top{
+    margin-top: 70px;
+}
+.margin-top1{
+    margin-top: 20px;
+}
+.margin-top2{
+    margin-top: 10px;
+}
+.color-text1{
+    color:#ff0000;
+}
+******************************************
+Navbar height
+********************************
+.navbar-fixed-top {
+    //min-height: 100px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.height-line{
+    height: 500px;
+}
+.body-colour{
+    background: #efefef;
+}
+.body-colour1{
+    background: #ffffff;
+    margin-top: 20px;
+}
+
+@media (max-width: 767px) {
+    .navbar-nav > li > a {
+    line-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+}
+
+
+
+

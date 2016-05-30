@@ -1,0 +1,53 @@
+[33mcommit badc0123e9d896e03e4555da3d11029909315f53[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Fri Apr 8 09:10:32 2016 +0100
+
+    remove the $Ercas$s controller
+
+[33mcommit 4f2c8ddab874bd4ecb2d7f4ede4c3354074f844c[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Wed Apr 6 11:50:34 2016 +0100
+
+    added logo in the header
+
+[33mcommit 85b5ae1b8194c6ea7cfc1be610d3ad990c1269ba[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Tue Apr 5 15:10:51 2016 +0100
+
+    Added one time registration for a use
+
+[33mcommit 2f628149710a8ead8850d038ae881dfc0f37e189[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Fri Apr 1 15:19:05 2016 +0100
+
+    Added contact page
+
+[33mcommit 2de75040aa53834972f4b516bd24e0a000aaa13b[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Fri Apr 1 14:38:28 2016 +0100
+
+    final test
+
+[33mcommit f3c2703902a115f58b1f4000c31b17563fe53217[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Fri Apr 1 14:24:41 2016 +0100
+
+    email testing
+
+[33mcommit f37572e7b7333866d693bad8e09962931428f7ec[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Fri Apr 1 12:56:24 2016 +0100
+
+    regerence completed
+
+[33mcommit 1ab1935ab2f59322474eb091a309294f45e5882c[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Fri Apr 1 09:47:59 2016 +0100
+
+    all tested changes
+
+[33mcommit 5283f41a46368b2b53ee4d3b3dfef08441dd9b13[m
+Author: opara nnabueze <nnabueze.opara@ercasng.com>
+Date:   Thu Mar 31 10:42:38 2016 +0100
+
+    Pre laravel api generator install
